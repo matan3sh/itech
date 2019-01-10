@@ -1,0 +1,23 @@
+{
+    "_id" : ObjectId("5c0d02e472b7920fea99f4f3"),
+    "name" : "iPhone Cases",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("5c0d036c72b7920fea99f4f4"),
+    "name" : "Charger",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("5c0d037a72b7920fea99f4f5"),
+    "name" : "AirPods",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("5c1b8dfa1b4734b3a813ad1e"),
+    "name" : "iPad Cases",
+    "__v" : 0
+}

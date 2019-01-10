@@ -1,0 +1,35 @@
+{
+    "_id" : ObjectId("5c0cda08c2a59f0cdff9a423"),
+    "name" : "iPhone",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("5c0cdbaeb52d6e0d0435a1c9"),
+    "name" : "Mac",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("5c0cde69762ed20d2039820e"),
+    "name" : "iPad",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("5c0cde70762ed20d2039820f"),
+    "name" : "iWatch",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("5c1b724529dd09b089903494"),
+    "name" : "Smart Home",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("5b2c12a1d37177aedfd6d966"),
+    "name" : "Cort",
+    "__v" : 0
+}

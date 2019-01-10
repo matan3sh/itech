@@ -1,0 +1,101 @@
+{
+    "_id" : ObjectId("5c0d1441cec729104b51bd40"),
+    "sold" : 0,
+    "images" : [],
+    "name" : "Macbook Pro 15inch",
+    "description" : "a macbook pro with retina display, 2018 model",
+    "price" : 2000,
+    "brand" : ObjectId("5c0cdbaeb52d6e0d0435a1c9"),
+    "shipping" : true,
+    "available" : true,
+    "accessories" : ObjectId("5c0d036c72b7920fea99f4f4"),
+    "publish" : true,
+    "createdAt" : ISODate("2018-12-09T13:10:25.089Z"),
+    "updatedAt" : ISODate("2018-12-09T13:10:25.089Z"),
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("5c0d1522cec729104b51bd41"),
+    "sold" : 0,
+    "images" : [],
+    "name" : "iPhone XS Max",
+    "description" : "the newest iphone model",
+    "price" : 1250,
+    "brand" : ObjectId("5c0cda08c2a59f0cdff9a423"),
+    "shipping" : true,
+    "available" : true,
+    "accessories" : ObjectId("5c0d02e472b7920fea99f4f3"),
+    "publish" : true,
+    "createdAt" : ISODate("2018-12-09T13:14:10.115Z"),
+    "updatedAt" : ISODate("2018-12-09T13:14:10.115Z"),
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("5c0d589a255cf6149e262597"),
+    "sold" : 0,
+    "images" : [],
+    "name" : "iPhone XS",
+    "description" : "the newest iphone model",
+    "price" : 1000,
+    "brand" : ObjectId("5c0cda08c2a59f0cdff9a423"),
+    "shipping" : true,
+    "available" : true,
+    "accessories" : ObjectId("5c0d02e472b7920fea99f4f3"),
+    "publish" : true,
+    "createdAt" : ISODate("2018-12-09T18:02:02.638Z"),
+    "updatedAt" : ISODate("2018-12-09T18:02:02.638Z"),
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("5c0d58f7255cf6149e262598"),
+    "sold" : 0,
+    "images" : [],
+    "name" : "iPad Pro 12.9inch",
+    "description" : "a large iPad, 2017 model",
+    "price" : 1800,
+    "brand" : ObjectId("5c0cde69762ed20d2039820e"),
+    "shipping" : true,
+    "available" : true,
+    "accessories" : ObjectId("5c0d036c72b7920fea99f4f4"),
+    "publish" : true,
+    "createdAt" : ISODate("2018-12-09T18:03:35.072Z"),
+    "updatedAt" : ISODate("2018-12-09T18:03:35.072Z"),
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("5c0d5939255cf6149e262599"),
+    "sold" : 0,
+    "images" : [],
+    "name" : "Apple Watch Series 4",
+    "description" : "the newest apple watch, 2018 model",
+    "price" : 400,
+    "brand" : ObjectId("5c0cde70762ed20d2039820f"),
+    "shipping" : true,
+    "available" : true,
+    "accessories" : ObjectId("5c0d036c72b7920fea99f4f4"),
+    "publish" : true,
+    "createdAt" : ISODate("2018-12-09T18:04:41.561Z"),
+    "updatedAt" : ISODate("2018-12-09T18:04:41.561Z"),
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("5c19fa17a3249099201d1e1d"),
+    "sold" : 0,
+    "images" : [],
+    "name" : "Apple Watch Series 3",
+    "description" : "the newest apple watch, 2017 model",
+    "price" : 299,
+    "brand" : ObjectId("5c0cde70762ed20d2039820f"),
+    "shipping" : true,
+    "available" : true,
+    "accessories" : ObjectId("5c0d036c72b7920fea99f4f4"),
+    "publish" : true,
+    "createdAt" : ISODate("2018-12-19T07:58:15.408Z"),
+    "updatedAt" : ISODate("2018-12-19T07:58:15.408Z"),
+    "__v" : 0
+}
